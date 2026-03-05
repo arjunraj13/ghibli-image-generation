@@ -1,1 +1,1 @@
-# ghibli-image-generation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arjunraj13/ghibli-image-generation/blob/main/Ghibli_Style_Image_Generation_Using_Stable_Diffusion_XL_and_ControlNet_with_Canny_Edge_Conditioning.ipynb)
